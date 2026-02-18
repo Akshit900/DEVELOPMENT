@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    height: 95vw;
+    padding: 2rem 1rem;
+    margin : 0 auto;
+}
+.card_container{
+    width: 300px;
+}
+
+.card_image{
+    width: 100%;
+    height: auto;
+    display: block;
+}
